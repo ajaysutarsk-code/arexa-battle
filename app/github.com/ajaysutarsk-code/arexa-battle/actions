@@ -1,0 +1,24 @@
+{
+  "project_info": {
+    "project_number": "222166881414",
+    "project_id": "arexa-battle-26e5f",
+    "storage_bucket": "arexa-battle-26e5f.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:222166881414:android:2cc76b78b00cb40f7d6d07",
+        "android_client_info": {
+          "package_name": "com.arexa.battle"
+        }
+      },
+      "api_key": [
+        {
+          "current_key": "AIzaSyA-Y_Y8R8XCrYNRShlD0YnP0CLkVmN93VY"
+        }
+      ],
+      "services": {}
+    }
+  ],
+  "configuration_version": "1"
+}
